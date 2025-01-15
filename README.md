@@ -20,11 +20,11 @@ The game is very simple to play, and has identical controls to Google's dinosaur
 
 Note: Unlike Google's dinosaur game, there is no ducking feature as no such obstacles are generated that require this action.
 
-## Visual image of the game
+## Visual Image of the Game
 
 <img width="731" alt="image" src="https://github.com/aaouy/runner_game/assets/137780044/2fb6b934-b177-4377-9bf7-f7f841642ef1">
 
-## Installation instructions
+## Installation Instructions
 
 The installation process is very simple:
 
@@ -32,7 +32,7 @@ The installation process is very simple:
 2. Ensure that pygame is installed. If it is not, it can be installed with pip via the command: 'pip install pygame'.
 3. Run the main.py file and enjoy :D
 
-## Known issues
+## Known Issues
 
 * Obstacle sprites frequently flicker on the screen. This is still a work in progress, and will hopefully be resolved ASAP. 
 
