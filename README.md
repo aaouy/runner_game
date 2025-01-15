@@ -1,6 +1,6 @@
 # Python Endless Runner Game With Pygame Library
 
-## A simple endless running game inspired by Google's dinosaur game.
+## A Simple Endless Running Game Inspired by Google's Dinosaur Game.
 
 This project was built as an attempt to replicate Google's dinosaur game. The overall functionality is identical, however obstacle generation is simplified. The game includes
 the following:
@@ -11,7 +11,7 @@ the following:
 * Gradual increase in difficulty.
 * Score tracking.
 
-## Game instructions
+## Game Instructions
 
 The game is very simple to play, and has identical controls to Google's dinosaur game. 
 
