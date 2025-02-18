@@ -29,7 +29,7 @@ Note: Unlike Google's dinosaur game, there is no ducking feature as no such obst
 The installation process is very simple:
 
 1. Clone this repository.
-2. Ensure that pygame is installed. If it is not, it can be installed with pip via the command: 'pip install pygame'.
+2. Ensure that pygame is installed. If it is not, it can be installed with pip via the command: `pip install pygame`.
 3. Run the main.py file and enjoy :D
 
 ## Known Issues
